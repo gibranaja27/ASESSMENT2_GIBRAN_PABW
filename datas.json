@@ -1,0 +1,22 @@
+{
+  "nama_mitra": "Lembaga Kemanusiaan Kota Bogor",
+  "alamat_mitra": "jakarta, tanjungpriuk",
+  "alamat_yang_disumbangkan": "Bandung, Jalan sukabirus",
+  "penyumbang": [
+    {
+      "nama_penyumbang": "Gibran Raja Aulia Putranami",
+      "alamat_penyumbang": "jakarta, kebon jeruk",
+      "waktu_menyumbang": "27 mei 2005, 12:00"
+    },
+    {
+      "nama_penyumbang": "Gilang Dwidarma",
+      "alamat_penyumbang": "bandung, pascal",
+      "waktu menyumbang": "2 mei 2003, 20:18"
+    },
+    {
+      "nama_penyumbang": "Abdullah azam",
+      "alamat_penyumbang": "jakarta, condet",
+      "waktu_menyumbang": "20 february 2004, 13:00"
+    }
+  ]
+}

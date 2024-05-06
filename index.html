@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="mitra-penyumbang">
+      <h1>INFORMASI PENYUMBANG</h1>
+      <div id="nama-mitra"></div>
+      <div id="alamat-mitra"></div>
+      <div id="alamat-yang-disumbangkan"></div>
+    </div>
+    <div id="penyumbang">
+      <h2>Informasi Penyumbang</h2>
+      <table id="tabel_penyumbang" style="border: 1px solid #ccc;">
+        <thead>
+          <tr>
+            <th>Nama Penyumbang</th>
+            <th>Alamat Penyumbang</th>
+            <th>Waktu Menyumbang</th>
+          </tr>
+        </thead>
+        <tbody id="tbody_penyumbang"></tbody>
+      </table>
+    </div>
+    <script src="javascripts.js"></script>
+  </body>
 </html>
